@@ -3,7 +3,7 @@
 Descripción concisa y atractiva de tu proyecto.
 
 ## Índice
-
+![Texto alternativo de la imagen](https://i.pinimg.com/564x/53/9b/11/539b11ba95633abfddb798150bd8ec1b.jpg)
 - [Demostración](#demostración)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
