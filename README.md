@@ -3,7 +3,8 @@
 Descripción concisa y atractiva de tu proyecto.
 
 ## Índice
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odpa6lSRn08?si=5fVwCzQSj0uZmus1" frameborder="0" allowfullscreen></iframe>
+Puedes ver una demostración de la funcionalidad en [este video en YouTube](https://www.youtube.com/embed/odpa6lSRn08?si=5fVwCzQSj0uZmus1).
+
 
 ![Texto alternativo de la imagen](https://i.pinimg.com/564x/53/9b/11/539b11ba95633abfddb798150bd8ec1b.jpg)
 - [Demostración](#demostración)
