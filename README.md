@@ -6,7 +6,7 @@ Descripción concisa y atractiva de tu proyecto.
 Puedes ver una demostración de la funcionalidad en [este video en YouTube](https://www.youtube.com/embed/odpa6lSRn08?si=5fVwCzQSj0uZmus1).
 
 
-[![Demostración de mi proyecto](https://github.com/1RubiUwU1/pegasus.tk/raw/main/img/chat/videos/canto.mp4)](https://github.com/1RubiUwU1/pegasus.tk/raw/main/img/chat/videos/canto.mp4)
+[Enlace al video](https://github.com/1RubiUwU1/pegasus.tk/raw/main/img/chat/videos/canto.mp4)
 
 
 ![Texto alternativo de la imagen](https://i.pinimg.com/564x/53/9b/11/539b11ba95633abfddb798150bd8ec1b.jpg)
