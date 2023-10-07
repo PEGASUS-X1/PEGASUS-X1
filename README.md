@@ -1,14 +1,16 @@
-# [CreativeScale Architecture](https://www.youtube.com/embed/odpa6lSRn08?si=5fVwCzQSj0uZmus1)
+# [Pegasus X](pegasus-v2.tk)
 
-CreativeScale Architecture es una extencion de PEGASUS X:
+Es un placer saludarte desde el mundo de Pegasus X. 🌟 Quiero extenderte una cálida bienvenida a nuestro universo de herramientas y posibilidades infinitas. Imagina un lugar donde tus ideas toman vida con un sinfín de herramientas a tu disposición. Desde generadores de ideas hasta asistentes para la resolución de problemas, estamos aquí para acompañarte en cada paso de tu viaje.
+
+¿Necesitas inspiración? No dudes en explorar nuestras bibliotecas de creatividad. ¿Buscas soluciones técnicas? Nuestros asistentes expertos están listos para brindarte su conocimiento. ¿Quieres Aprender? Nuestras herramientas de automatización están diseñadas para hacer tu vida más fácil.
+
+Así que adelante, explora, experimenta y crea. Estamos emocionados de ver cómo aprovechas al máximo todas las posibilidades que Pegasus X tiene para ofrecer. Si en algún momento necesitas ayuda o tienes preguntas, no dudes en contactarnos. ¡Tu creatividad es el límite y estamos aquí para ayudarte a alcanzarlo!
+
+Con entusiasmo, El equipo de Pegasus X
 
 ![PGX](https://github.com/PEGASUS-X1/PEGASUS-X1/assets/147075993/ad25dce0-e47d-4152-b097-350027a43ed9)
 
-CreativeScale Architecture es tu destino para obtener planos y dibujos a escala excepcionales de manera rápida y sencilla. Nuestro equipo de arquitectos, ingenieros y diseñadores que estás listo para convertir tus ideas en realidad. [¡Explora nuestro sitio y descubre cómo podemos ayudarte a dar vida a tus proyectos arquitectónicos!](pegasus-v2.tk)
-
-![AA](https://github.com/PEGASUS-X1/PEGASUS-X1/assets/147075993/8149b2e5-5f90-4b1d-9b84-e689d0faa515)
-
-## Enlaces
+## Enlaces:
 Antes de dar click revisa los tutolriales que se ecuentran mas abajo:
 - [PEGASUS X](pegasus-v2.tk)
 - [Registro](pegasus-v2.tk/CreativeScale-Architecture/Registro.html)
@@ -21,13 +23,4 @@ Antes de dar click revisa los tutolriales que se ecuentran mas abajo:
 
 ## Registro
 
-
-## Instalación
-##uso
-Proporciona instrucciones detalladas sobre cómo instalar tu proyecto en el entorno del usuario. Esto podría incluir comandos de línea de comandos, configuraciones, etc.
-
-```bash
-# Ejemplo de comandos de instalación
-git clone https://github.com/tu-usuario/tu-proyecto.git
-cd tu-proyecto
-npm install
+[screencast--2023.10.07-13_18_30.webm](https://github.com/PEGASUS-X1/PEGASUS-X1/assets/147075993/da2579bc-4d84-44f8-8730-c799ec860ec4)
